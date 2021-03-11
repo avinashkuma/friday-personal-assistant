@@ -55,6 +55,7 @@ class Ui_Form(object):
 
 
 if __name__ == "__main__":
+    #this is a comment for github checking 
     import sys
     app = QtWidgets.QApplication(sys.argv)
     Form = QtWidgets.QWidget()
